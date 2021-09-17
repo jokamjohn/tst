@@ -1,0 +1,17 @@
+asgiref==3.4.1
+click==8.0.1
+dnspython==2.1.0
+email-validator==1.1.3
+Faker==8.13.2
+fastapi==0.68.1
+h11==0.12.0
+idna==3.2
+pydantic==1.8.2
+PyJWT==2.1.0
+python-dateutil==2.8.2
+python-decouple==3.4
+six==1.16.0
+starlette==0.14.2
+text-unidecode==1.3
+typing-extensions==3.10.0.2
+uvicorn==0.15.0
